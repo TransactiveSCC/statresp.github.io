@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "StatResp"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "StatResp"
 description              : &description ""
