@@ -2,6 +2,9 @@
 main:
   - title: "Tool"
     url: /tool/
+
+  - title: "Statistical Models"
+    url: /mathdoc/
     
   - title: "Research"
     url: /research/
