@@ -4,9 +4,15 @@ permalink: /research/
 author_profile: true
 ---
 
-The key components of an ERM pipeline are: (1) *Incident forecasting* -- understanding where and when incidents occur , (2) *Long-term resource allocation* -- strategic decisions on long-term resource place- ment, such as how many stations and vehicles to acquire and where to build said stations , (3) *Dynamic resource allocation* -- short term operational decisions such as rebalancing vehicle allocations based on current demands , and (4) *Dispatching* -- policy for deploying responders when an incident is reported.
+<p>The key components of an ERM pipeline are:</p>
+<ul>
+<li>Incident Forecasting: creating models to understand where and when incidents occur, and with what severity.</li>
+<li>Long-term resource allocation: creating algorithmic approaches to station resources in the anticipation of future incidents.</li>
+<li>Short-term dynamic allocation: updating responder allocation to adjust to the changing dynamics of urban areas.</li>
+<li>Dispatch: creating principled approaches to dispatching responders</li>
+</ul>
+<p>Designing ERM pipelines is challenging. Despite the dynamic and uncertain environments in which ERM systems work, response is expected to be efficient and effective. Our research has spanned all the four components in the last few years. We present a short summary of our work here.</p>
 
-Designing pipelines for emergency response is challenging. Despite the dynamic and uncertain environment in which ERM evolves, response must be effective and efficient. Our research has spanned all the three components of the ERM pipeline. 
 
 1. Forecasting Methods -- Summarize Forecasting, Clustering and Visualization.
 
