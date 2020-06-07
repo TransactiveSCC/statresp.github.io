@@ -1,5 +1,5 @@
 ---
-title: "Publications and Patents"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,7 +11,7 @@ author_profile: true
 Ayan Mukhopadhyay, Kai Wang, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, and Yevgeniy Vorobeychik.
 <i>36th Conference on Uncertainty in Artificial Intelligence</i>. <b>UAI 2020 (to appear)</b>.
 
-<b>[On Algorithmic Decision Procedures in Emergency Response Systems in Smart and Connected Communities](http://ayanmukhopadhyay.github.io/publications/aamas20)</b> <br> 
+<b>[On Algorithmic Decision Procedures in Emergency Response Systems in Smart and Connected Communities](https://ayanmukhopadhyay.github.io/files/aamas20.pdf)</b> <br> 
 Geoffrey Pettet,Ayan Mukhopadhyay, Mykel Kochenderfer, Yevgeniy Vorobeychik, Abhishek Dubey.
 <i>The 19th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2020</b>.
 
@@ -20,19 +20,20 @@ Dispatch](http://ayanmukhopadhyay.github.io/publications/iccps19)</b> <br>
 Ayan Mukhopadhyay, Geoffrey Pettet, Chinmaya Samal, Yevgeniy Vorobeychik, Abhishek Dubey.
 <i>The 10th ACM/IEEE Conference on Cyber-Physical Systems</i>. <b>ICCPS 2019</b>.
 
-<b>[A Decision Theoretic Framework for Emergency Responder Dispatch](http://ayanmukhopadhyay.github.io/publications/aamas18)</b> <br> 
+<b>[A Decision Theoretic Framework for Emergency Responder Dispatch](https://ayanmukhopadhyay.github.io/files/aamas18.pdf)</b> <br> 
 Ayan Mukhopadhyay, Zilin Wang, Yevgeniy Vorobeychik.
 <i>The 17th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2018</b>.
 
-<b>[Incident Prediction and Response Optimization](http://ayanmukhopadhyay.github.io/publications/aamas18dc)</b> <br> 
-Ayan Mukhopadhyay.
-<i>The 17th Conference on Autonomous Agents and MultiAgent Systems (Doctoral Consortium)</i>. <b>AAMAS 2018</b>.
+<b>[Incident analysis and prediction using clustering and Bayesian network](https://scope-lab.org/files/Pettet2017.pdf) 
+<br>
+G. Pettet, S. Nannapaneni, B. Stadnick, A. Dubey, and G. Biswas.
+<b>IEEE SmartWorld, 2017</b>
 
-<b>[Prioritized Allocation of Emergency Responders based on a Continuous-Time Incident Prediction Model](http://ayanmukhopadhyay.github.io/publications/aamas17)</b> <br> 
+<b>[Prioritized Allocation of Emergency Responders based on a Continuous-Time Incident Prediction Model](https://ayanmukhopadhyay.github.io/files/aamas17.pdf)</b> <br> 
 Ayan Mukhopadhyay, Abhishek Dubey, Gautam Biswas, Yevgeniy Vorobeychik.
 <i>The 16th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2017</b>.
 
-<b>[Optimal Allocation of Police Patrol Resources Using a Continuous-Time Crime Model](http://ayanmukhopadhyay.github.io/publications/gamesec16)</b> <br>
+<b>[Optimal Allocation of Police Patrol Resources Using a Continuous-Time Crime Model](https://ayanmukhopadhyay.github.io/files/gamesec16.pdf)</b> <br>
 Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence, Paul Speer.
 <i>7th International Conference on Decision and Game Theory for Security. </i>. <b>GameSec 2016</b>.
 
@@ -54,15 +55,3 @@ Ayan Mukhopadhyay, Zilin Wang, Yevgeniy Vorobeychik.
 
 <b>[Optimal allocation of police patrol resources using a continuous-time crime model](http://ayanmukhopadhyay.github.io/publications/gamesec16)</b><br>
 Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence, Paul Speer. <i>The AAAI 2017 Spring Symposium on AI for Social Good.</i> <b>AISOC at AAAI (spring) 2017</b>.
-
-<br>
-<b><u>Patents</u></b>
-<br>
-
-A Security Device<br>
-Ayan Mukhopadhyay, Suman Tiwari, Harinandan Tunga.
-<i>Reference: E-2/2217/2013-KOL, Application: 616/KOL/2012. (Publication and Patent Pending)</i>
-
-Hybrid Car Power Transition Mechanism<br>
-Ankit Narsaria, Ayan Mukhopadhyay, Suman Tiwari.
-<i>Official Journal Of The Patent Office, Government of India, Issue No. 31/2012. (PatentPending)</i>

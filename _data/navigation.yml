@@ -4,10 +4,4 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/
-    
-  - title: "CV"
-    url: https://ayanmukhopadhyay.github.io/files/cv.pdf
+    url: /talks/
