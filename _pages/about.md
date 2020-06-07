@@ -1,0 +1,18 @@
+---
+permalink: /
+title: ""
+excerpt: "About the Project"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Emergency response management (ERM) is a critical problem faced by communities across the globe. First-responders are constrained by limited resources, and must attend to different types of incidents like traffic accidents, fires, crime, and distress calls. In prior art, as well as practice, incident forecasting and response are typically siloed by category and department, reducing effectiveness of prediction and precluding efficient coordination of resources. Further, most of these approaches are offline and fail to capture the dynamically changing environments under which critical emergency response occurs. As a consequence, statistical and algorithmic approaches to emergency response have received significant attention in the last few decades. Governments in urban areas are increasingly adopting methods that enable Smart Statistical Emergency Response, which are a combination of forecasting models and visualization tools to understand where and when incidents occur, and optimization approaches to allocate and dispatch responders. 
+
+#Background
+
+Our work in ERM has spanned the last six years. This project was started by the Computational Economics Research Lab at Vanderbilt, and is currently developed jointly by the members of the Smart and resilient Computing for Physical Environment Lab (SCOPE) at Vanderbilt and the Stanford Intelligent Systems Lab (SISL) at Stanford. We are thankful to the National Science Foundation (NSF) and the Center of Automotive Research at Stanford (CARS) for sponsoring the project. We have had the fortune of collaborating with the Tennessee Department of Transportation (TDOT), the Metropolitan Nashville Police Department (MNPD), and the Nashville Fire Department (MNPD) over the last few years. Currently, this open-source repository is a collection of forecasting, visualization and clustering tools to aid first responders better understand the dynamics of spatial-temporal incident occurrence. 
+
+Our broader research has spanned several components of the ERM pipeline. Our broader approach can be understood from checking the ERM tab, or through the [overview paper](overview.pdf).
+
