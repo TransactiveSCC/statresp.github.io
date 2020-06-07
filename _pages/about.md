@@ -19,25 +19,14 @@ Our work in ERM has spanned the last six years. This project was started by a co
 Our research has been showcased at multiple global smart city summits, covered in the government technology magazine and won the best paper award at ICLR's AI for Social Good Workshop. Our broader approach can be understood from checking the Research page, or through the [overview paper](http://statresp.github.io/files/pdfoverview.pdf).
 
 
-![](http://statresp.github.io/images/vu.jpg){:height="200px" width="200px"}![](http://statresp.github.io/images/stanford.png){:height="300px" width="300px"}![](http://statresp.github.io/images/isisLogo.png){:height="200px" width="200px"}![](http://statresp.github.io/images/CARS.png){:height="200px" width="1500px"}![](http://statresp.github.io/images/NSF.png){:height="100px" width="100px"}
+<!-- ![](http://statresp.github.io/images/vu.jpg){:height="200px" width="200px"}![](http://statresp.github.io/images/stanford.png){:height="300px" width="300px"}![](http://statresp.github.io/images/isisLogo.png){:height="200px" width="200px"}![](http://statresp.github.io/images/CARS.png){:height="200px" width="1500px"}![](http://statresp.github.io/images/NSF.png){:height="100px" width="100px"} -->
 
 <p float="left">
-  <img src="../images/vu.png" width="100" />
+  <img src="http://statresp.github.io/images/vu.jpg" height="200px" width="200px" />
+  <img src="http://statresp.github.io/images/stanford.jpg" height="200px" width="200px" />
+  <img src="http://statresp.github.io/images/isisLogo.jpg" height="200px" width="200px" />
 </p>
-
-<!-- <table>
-  <tr>
-    <td><image src="http://statresp.github.io/images/vu.jpg" width = 200px height = 200px ></td>
-
-    <td><image src="http://statresp.github.io/images/stanford.png" width = 200px height = 200px></td>
-
-    <td><img src="http://statresp.github.io/images/isisLogo.png" width = 200px height = 200px></td>
-   </tr> 
-   <tr>
-      <td><img src="http://statresp.github.io/images/CARS.png" width = 200px height = 200px></td>
-
-      <td><img src="http://statresp.github.io/images/NSF.png" align="right" width = 200px height = 200px></td>
-
-      <td><img src=""></td>
-  </tr>
-</table> -->
+<p float="left">
+  <img src="http://statresp.github.io/images/CARS.jpg" height="200px" width="200px" />
+  <img src="http://statresp.github.io/images/NSF.png" height="200px" width="200px" />
+</p>
