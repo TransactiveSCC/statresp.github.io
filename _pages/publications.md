@@ -42,7 +42,7 @@ Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence
 <br>
 
 <b>[A Pipeline for Emergency Response](http://ayanmukhopadhyay.github.io/publications/iclr19)</b><br>
-Ayan Mukhopadhyay,Yevgeniy Vorobeychik.
+Ayan Mukhopadhyay, Yevgeniy Vorobeychik.
 <i>The ICLR-19 Workshop on AI for Social Good.</i> <b>AISG at ICLR 2019 [BEST PAPER AWARD]</b>.
 
 <b>[Prioritized allocation of emergency responders based on a continuous-time incident prediction model](http://ayanmukhopadhyay.github.io/publications/aamas17)</b> <br>
