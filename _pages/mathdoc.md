@@ -63,7 +63,7 @@ The following forecasting models are currently supported by StatResp --
     The value of alpha is determined through auxiliary OLS regression~\cite{cameron2013regression}, using $\lambda$ from a standard Poisson model.
 </li>
 
-<li><b>Parametric Survival Model<b> A parametric survival model over incident arrival can be represented as  $f(X \mid \gamma(w))$, where
+<li><b>Parametric Survival Model</b> A parametric survival model over incident arrival can be represented as  $f(X \mid \gamma(w))$, where
 $f$ is the probability distribution for a continuous random variable $X$ (typically representing the inter-arrival time between incidents), which depends on
 covariates $w$ via the link function $\gamma$. The link function is usually logarithmic. Formally, for a specific time-interval $x$, and associated feature vector $w$, this relationship is represented as
 
@@ -88,7 +88,7 @@ There are different methods to detect outliers given the distribution $f$ and da
     <li> Spatial units are clustered into $q$ clusters (say) by $A$. Let the $j$th cluster be denoted by $C_j$.</li>
     <li> For a given cluster $C_i$, we look at each each unit $u_k \in C_i$, and calculate the mean density (or probabilistic mass) resulting from each observation from the said unit. This can be calculated as
     $$
-    m(u_{ik}) = \frac{\sum_{j=i}^{n}\mathbbm{1}(x_j \in u_k)f(x_j|w)}{\sum_{j=i}^{n}\mathbbm{1}(x_j \in u_k)(x_j)} 
+    m(u_{ik}) = \frac{\sum_{j=i}^{n}\unicode{x1D7D9}(x_j \in u_k)f(x_j|w)}{\sum_{j=i}^{n}\unicode{x1D7D9}(x_j \in u_k)(x_j)} 
     $$
     </li>
     <li> We then run the generalized extreme studentized deviate (ESD) test, which can be used to detect one or more outliers in a univariate data set that follows an approximately normal distribution. Note that for each cluster $C_i$, the elements of the vector $\{m(u_{i1}), m(u_{i2}) \dots\}$ follow a normal distribution in the limit since each observation is essentially the mean of a set of samples drawn from $f$.</li>
