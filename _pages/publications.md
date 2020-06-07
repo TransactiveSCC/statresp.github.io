@@ -20,13 +20,17 @@ Dispatch](http://ayanmukhopadhyay.github.io/publications/iccps19)</b> <br>
 Ayan Mukhopadhyay, Geoffrey Pettet, Chinmaya Samal, Yevgeniy Vorobeychik, Abhishek Dubey.
 <i>The 10th ACM/IEEE Conference on Cyber-Physical Systems</i>. <b>ICCPS 2019</b>.
 
+<b>[Data-Driven Detection of Anomalies and Cascading Failures in Traffic Networks](https://scope-lab.org/files/Basak2019b.pdf)</b> <br> 
+Sanchita Basak, Afiya Aman, Aron Laszka, Abhishek Dubey, and Bruno Leao
+<i>Proceedings of the 11th Annual Conference of the Prognostics and Health Management Society</i>. <b>PHM 2019</b>.
+
 <b>[A Decision Theoretic Framework for Emergency Responder Dispatch](https://ayanmukhopadhyay.github.io/files/aamas18.pdf)</b> <br> 
 Ayan Mukhopadhyay, Zilin Wang, Yevgeniy Vorobeychik.
 <i>The 17th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2018</b>.
 
 <b>[Incident analysis and prediction using clustering and Bayesian network](https://scope-lab.org/files/Pettet2017.pdf)</b> 
 <br>
-G. Pettet, S. Nannapaneni, B. Stadnick, A. Dubey, and G. Biswas.
+Geoffrey Pettet, Saideep Nannapaneni, Benjamin Stadnick, Abhishek Dubey, and Gautam Biswas.
 <b>IEEE SmartWorld, 2017</b>
 
 <b>[Prioritized Allocation of Emergency Responders based on a Continuous-Time Incident Prediction Model](https://ayanmukhopadhyay.github.io/files/aamas17.pdf)</b> <br> 
@@ -45,9 +49,20 @@ Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence
 Ayan Mukhopadhyay, Yevgeniy Vorobeychik.
 <i>The ICLR-19 Workshop on AI for Social Good.</i> <b>AISG at ICLR 2019 [BEST PAPER AWARD]</b>.
 
+<b>[Structured Summarization of Social Web for Smart Emergency Services by Uncertain Concept Graph](https://scope-lab.org/files/Purohit2018.pdf)</b><br>
+H. Purohit, S. Nannapaneni, A. Dubey, P. Karuna, and G. Biswas.
+<i> 2018 IEEE International Science of Smart City Operations and Platforms Engineering</i><b>SCOPE Workshop at CPS Week 2018</b>.
+
 <b>[Prioritized allocation of emergency responders based on a continuous-time incident prediction model](http://ayanmukhopadhyay.github.io/publications/aamas17)</b> <br>
 Ayan Mukhopadhyay, Zilin Wang, Yevgeniy Vorobeychik.
 <i>The AAMAS-17 Workshop on Adversarial Reasoning in Multi-agent Systems</i> <b>ADVERSE at AAMAS 2016</b>.
 
 <b>[Optimal allocation of police patrol resources using a continuous-time crime model](http://ayanmukhopadhyay.github.io/publications/gamesec16)</b><br>
 Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence, Paul Speer. <i>The AAAI 2017 Spring Symposium on AI for Social Good.</i> <b>AISOC at AAAI (spring) 2017</b>.
+
+<br>
+<b><u>Tool Demonstrations and Posters</u></b>
+<br>
+<b>[Incident management and analysis dashboard for fire departments](https://scope-lab.org/files/Pettet2019.pdf)</b><br>
+G. Pettet, A. Mukhopadhyay, C. Samal, A. Dubey, and Y. Vorobeychik.
+<i> 10th ACM/IEEE International Conference on Cyber-Physical Systems</i><b>ICCPS 2019</b>.
