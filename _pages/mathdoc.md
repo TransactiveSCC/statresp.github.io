@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-permalink: /publications/
+permalink: /mathdoc/
 author_profile: true
 ---
 
