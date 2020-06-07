@@ -17,4 +17,5 @@ Our work in ERM has spanned the last six years. This project was started by a co
 Our research has been showcased at multiple global smart city summits, covered in the government technology magazine and won the best paper award at ICLR's AI for Social Good Workshop. Our broader approach can be understood from checking the Research page, or through the [overview paper](http://statresp.github.io/files/pdfoverview.pdf).
 
 
-![Test Image](http://statresp.github.io/images/vu.jpg = 100x) ![Test Image](http://statresp.github.io/images/stanford.png = 100x)
+![Test Image](http://statresp.github.io/images/vu.jpg) 
+![Test Image](http://statresp.github.io/images/stanford.png)
