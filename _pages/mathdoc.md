@@ -80,7 +80,7 @@ $$
 
 StatResp also supports the detection of outliers among clusters. Spatial clustering is done in StatResp on the basis of a set of \textit{static} features specified by the user. Static features can be thought of as covariates that stay relatively constant over time. For example, the number of lanes on a roadway segment does not usually change. See the section on clustering to know how static features are used to cluster different spatial units together. However, despite exhibiting similar static features, units can have different arrival distributions for incidents. StatResp has a module for outlier detection, that aims to detect outliers within clusters. 
 
-There are different methods to detect outliers given the distribution $f$ and data $D$. The simplest approach is to create an empirical distribution using $X$ (observed counts , for example), and then select units that are some predefined distance away from the mean. However, this ignores the feature space entirely. As a result, the following procedure is adopted to detect outliers. 
+There are different methods to detect outliers given the distribution $f$ and data $D$. The simplest approach is to create an empirical distribution using $X$ (observed counts, for example), and then select units that are some predefined distance away from the mean. However, this ignores the feature space entirely. As a result, the following procedure is adopted to detect outliers. 
 
 <ul>
     <li> A distribution $f$ and a clustering algorithm $A$ is specified by the user.</li>
