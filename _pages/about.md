@@ -10,7 +10,7 @@ redirect_from:
 
 Emergency response management (ERM) is a critical problem faced by communities across the globe. First-responders are constrained by limited resources, and must attend to different types of incidents like traffic accidents, fires, crime, and distress calls. In prior art, as well as practice, incident forecasting and response are typically siloed by category and department, reducing effectiveness of prediction and precluding efficient coordination of resources. Further, most of these approaches are offline and fail to capture the dynamically changing environments under which critical emergency response occurs. As a consequence, statistical and algorithmic approaches to emergency response have received significant attention in the last few decades. Governments in urban areas are increasingly adopting methods that enable Smart Statistical Emergency Response, which are a combination of forecasting models and visualization tools to understand where and when incidents occur, and optimization approaches to allocate and dispatch responders. 
 
-We are building an open-source integrated tool-chain to aid first responders understand where and when incidents occur, and how to allocate responders in anticipation of incidents.
+We are building 'StatResp' -- an open-source integrated tool-chain to aid first responders understand where and when incidents occur, and how to allocate responders in anticipation of incidents.
 
 <b>Background</b>
 
@@ -27,6 +27,6 @@ Our research has been showcased at multiple global smart city summits, covered i
   <img src="http://statresp.github.io/images/isisLogo.png" height="200px" width="200px" />
 </p>
 <p float="left">
-  <img src="http://statresp.github.io/images/CARS.png" height="200px" width="200px" />
+  <img src="http://statresp.github.io/images/CARS.png" height="180px" width="180px" />
   <img src="http://statresp.github.io/images/NSF.png" height="200px" width="200px" />
 </p>
