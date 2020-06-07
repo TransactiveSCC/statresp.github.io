@@ -2,7 +2,6 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
-usemathjax: true
 ---
 
 This page is an explanation of the mathematical models that are used in the tool. 
