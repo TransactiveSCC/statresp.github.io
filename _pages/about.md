@@ -12,9 +12,9 @@ Emergency response management (ERM) is a critical problem faced by communities a
 
 #Background
 
-Our work in ERM has spanned the last six years. This project was started by a collaboration between the Smart and resilient Computing for Physical Environment Lab (SCOPE) and the Computational Economics Research Lab at Vanderbilt, and is currently developed jointly the SCOPE Lab and the Stanford Intelligent Systems Lab (SISL) at Stanford. We are thankful to the National Science Foundation (NSF) and the Center of Automotive Research at Stanford (CARS) for sponsoring the project. We have had the fortune of collaborating with the Tennessee Department of Transportation (TDOT), the Metropolitan Nashville Police Department (MNPD), and the Nashville Fire Department (MNPD) over the last few years. Currently, this open-source repository is a collection of forecasting, visualization and clustering tools to aid first responders better understand the dynamics of spatial-temporal incident occurrence. 
+Our work in ERM has spanned the last six years. This project was started by a collaboration between the Smart and Resilient Computing for Physical Environment Lab (SCOPE) and the Computational Economics Research Lab (CERL) at Vanderbilt, and is currently developed jointly the SCOPE Lab and the Stanford Intelligent Systems Lab (SISL) at Stanford. We are thankful to the National Science Foundation (NSF) and the Center of Automotive Research at Stanford (CARS) for sponsoring the project. We have had the fortune of collaborating with the Tennessee Department of Transportation (TDOT), the Metropolitan Nashville Police Department (MNPD), and the Nashville Fire Department (MNPD) over the last few years. Currently, this open-source repository is a collection of forecasting, visualization and clustering tools to aid first responders better understand the dynamics of spatial-temporal incident occurrence. 
 
 Our research has been showcased at multiple global smart city summits, covered in the government technology magazine and won the best paper award at ICLR's AI for Social Good Workshop. Our broader approach can be understood from checking the Research page, or through the [overview paper](http://statresp.github.io/files/pdfoverview.pdf).
 
 
-![](http://statresp/_logos/vu.jpg)
+![](http://statresp.github.io/_logos/vu.jpg)
