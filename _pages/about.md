@@ -23,10 +23,10 @@ Our research has been showcased at multiple global smart city summits, covered i
 
 <p float="left">
   <img src="http://statresp.github.io/images/vu.jpg" height="200px" width="200px" />
-  <img src="http://statresp.github.io/images/stanford.jpg" height="200px" width="200px" />
-  <img src="http://statresp.github.io/images/isisLogo.jpg" height="200px" width="200px" />
+  <img src="http://statresp.github.io/images/stanford.png" height="200px" width="200px" />
+  <img src="http://statresp.github.io/images/isisLogo.png" height="200px" width="200px" />
 </p>
 <p float="left">
-  <img src="http://statresp.github.io/images/CARS.jpg" height="200px" width="200px" />
+  <img src="http://statresp.github.io/images/CARS.png" height="200px" width="200px" />
   <img src="http://statresp.github.io/images/NSF.png" height="200px" width="200px" />
 </p>
