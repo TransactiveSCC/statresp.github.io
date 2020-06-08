@@ -20,5 +20,7 @@ author_profile: true
 
 3. Dispatch Methods -- Summarize AAMAS_18, ICCPS_19, AAMAS_20.
 
+4. Congestion Analysis Methods - ICCPS_19, PHM_19
+
 <!-- The problem is challenging because the correct answer may not only depend upon just sending the nearest emergency responder, but sometimes it may also require proactively placing emergency vehicles in regions with higher incident likelihood. Sending the nearest available responder by euclidean distance ignores road networks and their congestion, as well as where the resources are stationed. Greedily assigning resources to incidents can lead to resources being pulled away from their stations, increasing response times if an incident occurs in the future in the area where responder should be positioned. The goal of this project is to enable an ERM pipeline that solves these problem strategically.  -->
 
