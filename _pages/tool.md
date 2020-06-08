@@ -3,13 +3,8 @@ title: "Tool Description"
 permalink: /tool/
 author_profile: true
 ---
-
-<p>
-  <img src="http://statresp.github.io/images/Architecture.png" height="500px" width="500px" />
-</p>
-
  <figure>
-  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+  <img src="http://statresp.github.io/images/Architecture.png" style="width:100%">
   <figcaption>Fig. 1 : High-Level System Archtitecture</figcaption>
 </figure> 
 
