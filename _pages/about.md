@@ -24,12 +24,12 @@ Our research has been showcased at multiple global smart city summits, covered i
 <!-- ![](http://statresp.github.io/images/vu.jpg){:height="200px" width="200px"}![](http://statresp.github.io/images/stanford.png){:height="300px" width="300px"}![](http://statresp.github.io/images/isisLogo.png){:height="200px" width="200px"}![](http://statresp.github.io/images/CARS.png){:height="200px" width="1500px"}![](http://statresp.github.io/images/NSF.png){:height="100px" width="100px"} -->
 
 <p float="left">
-  <img src="http://statresp.github.io/images/vu.jpg" height="200px" width="200px" />
-  <img src="http://statresp.github.io/images/stanford.png" height="200px" width="200px" />
-  <img src="http://statresp.github.io/images/isisLogo.png" height="150px" width="200px" />
+  <img src="https://statresp.ai/images/vu.jpg" height="200px" width="200px" />
+  <img src="https://statresp.ai/images/stanford.png" height="200px" width="200px" />
+  <img src="https://statresp.ai/images/isisLogo.png" height="150px" width="200px" />
 </p>
 <p float="left">
-  <img src="http://statresp.github.io/images/CARS.png" height="180px" width="180px" /> 
-    <img src="http://statresp.github.io/images/NSF.png" height="175px" width="175px" />
-      <img src="http://statresp.github.io/images/TN_TDOT-ColorPMS.png" height="175px" width="175px" />  
+  <img src="https://statresp.ai/images/CARS.png" height="180px" width="180px" /> 
+    <img src="https://statresp.ai/images/NSF.png" height="175px" width="175px" />
+      <img src="https://statresp.ai/images/TN_TDOT-ColorPMS.png" height="175px" width="175px" />  
 </p>
