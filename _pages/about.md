@@ -30,4 +30,5 @@ Our research has been showcased at multiple global smart city summits, covered i
 </p>
 <p float="left">
   <img src="http://statresp.github.io/images/CARS.png" height="180px" width="180px" /> 
+  <img src="http://statresp.github.io/images/tdot.png" height="180px" width="180px" />
 </p>

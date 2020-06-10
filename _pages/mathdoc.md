@@ -58,7 +58,7 @@ The following forecasting models are currently supported by StatResp --
     \[
         \sigma = \lambda + \alpha \lambda^{p}
     \]
-    where $\alpha$ is an exogenous parameter and $p$ represents the order of the model. The setting with $p=1$ forms the \textit{NB-1} model and the one with $p=2$ forms the \textit{NB-2} model. Note that the setting where $p=0$ reduces to the standard Poisson model. StatResp uses the NB-2 model.
+    where $\alpha$ is an exogenous parameter and $p$ represents the order of the model. The setting with $p=1$ forms the <em>NB-1</em> model and the one with $p=2$ forms the <em>NB-2</em> model. Note that the setting where $p=0$ reduces to the standard Poisson model. StatResp uses the NB-2 model.
     
     The value of alpha is determined through auxiliary OLS regression~\cite{cameron2013regression}, using $\lambda$ from a standard Poisson model.
 </li>
@@ -78,7 +78,7 @@ $$
 
 <b>Outlier Detection</b>
 
-StatResp also supports the detection of outliers among clusters. Spatial clustering is done in StatResp on the basis of a set of \textit{static} features specified by the user. Static features can be thought of as covariates that stay relatively constant over time. For example, the number of lanes on a roadway segment does not usually change. See the section on clustering to know how static features are used to cluster different spatial units together. However, despite exhibiting similar static features, units can have different arrival distributions for incidents. StatResp has a module for outlier detection, that aims to detect outliers within clusters. 
+StatResp also supports the detection of outliers among clusters. Spatial clustering is done in StatResp on the basis of a set of <em>static</em> features specified by the user. Static features can be thought of as covariates that stay relatively constant over time. For example, the number of lanes on a roadway segment does not usually change. See the section on clustering to know how static features are used to cluster different spatial units together. However, despite exhibiting similar static features, units can have different arrival distributions for incidents. StatResp has a module for outlier detection, that aims to detect outliers within clusters. 
 
 There are different methods to detect outliers given the distribution $f$ and data $D$. The simplest approach is to create an empirical distribution using $X$ (observed counts, for example), and then select units that are some predefined distance away from the mean. However, this ignores the feature space entirely. As a result, the following procedure is adopted to detect outliers. 
 
