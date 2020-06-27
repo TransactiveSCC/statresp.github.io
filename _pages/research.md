@@ -11,14 +11,14 @@ author_profile: true
 <li>Short-term dynamic allocation: updating responder allocation to adjust to the changing dynamics of urban areas.</li>
 <li>Dispatch: creating principled approaches to dispatching responders</li>
 </ul>
-<p>Designing ERM pipelines is challenging. Despite the dynamic and uncertain environments in which ERM systems work, response is expected to be efficient and effective. Our research has spanned all the four components in the last few years. We present a short summary of our work here.</p>
+<p>Designing ERM pipelines is challenging. Despite the dynamic and uncertain environments in which ERM systems work, response is expected to be efficient and effective. Our research has spanned all the four components in the last few years. Below, we present a short summary of most commonly used models in ERM.</p>
 
 
-1. Forecasting Methods -- Summarize Forecasting, Clustering and Visualization.
+1. Forecasting Methods -- Understanding <i>where</i> and <i>when</i> incidents like accidents occur is the most fundamental step in the emergency response pipeline. Both discrete time and continuous-time models have been used to learn distributions over incidents arrival. Poisson regression, negative binomial regression, zero-inflated poisson regression and parametric survival analysis are the most widely used models in this regard.
 
-2. Allocation Methods -- Summarize AAMAS_17 and AAMAS_18.
+2. Allocation Methods -- Allocations models seek to optimize two targets: a) the spatial distribution of depots (fixed entities like fire stations), and b) the distribution of responders with the depots. The key idea is to frame an optimization problem that optimizes a specific metric like expected response time or coverage. 
 
-3. Dispatch Methods -- Summarize AAMAS_18, ICCPS_19, AAMAS_20.
+3. Dispatch Methods -- Principled methods of dispatch involve optimizing over which responder should be dispatched once an incident has occurred, and also how the distribution of responders can be changed dynamically. Typically, a decision-theoretic model is created with an appropriate reward structure, and the expected sum of rewards is maximized to design the optimal model for dispatch.
 
 4. Congestion Analysis Methods - ICCPS_19, PHM_19
 
