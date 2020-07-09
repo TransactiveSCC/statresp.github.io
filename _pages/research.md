@@ -20,7 +20,7 @@ author_profile: true
 
 3. Dispatch Methods -- Principled methods of dispatch involve optimizing over which responder should be dispatched once an incident has occurred, and also how the distribution of responders can be changed dynamically. Typically, a decision-theoretic model is created with an appropriate reward structure, and the expected sum of rewards is maximized to design the optimal model for dispatch.
 
-4. Congestion Analysis Methods - ICCPS_19, PHM_19
+4. Congestion Analysis Methods - Traffic congestion is a critical concern for emergency responders. As such good congestion prediction models and analyzing how congestion affects motor vehicle incidents and the response is important. Typically, recurrent neural networks and graph neural networks have performed well for this task. 
 
 <!-- The problem is challenging because the correct answer may not only depend upon just sending the nearest emergency responder, but sometimes it may also require proactively placing emergency vehicles in regions with higher incident likelihood. Sending the nearest available responder by euclidean distance ignores road networks and their congestion, as well as where the resources are stationed. Greedily assigning resources to incidents can lead to resources being pulled away from their stations, increasing response times if an incident occurs in the future in the area where responder should be positioned. The goal of this project is to enable an ERM pipeline that solves these problem strategically.  -->
 
