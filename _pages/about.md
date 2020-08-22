@@ -23,14 +23,14 @@ Our research has been showcased at multiple global smart city summits, won an in
 
 
 <p float="left">
-  <img src="https://statresp.ai/images/vu.jpg" height="200px" width="200px" />
-  <img src="https://statresp.ai/images/stanford.png" height="200px" width="200px" />
-  <img src="https://statresp.ai/images/isisLogo.png" height="150px" width="200px" />
+  <img src="images/vu.jpg" height="200px" width="200px" />
+  <img src="images/stanford.png" height="200px" width="200px" />
+  <img src="images/isisLogo.png" height="150px" width="200px" />
 </p>
 <p float="left">
-  <img src="https://statresp.ai/images/CARS.png" height="180px" width="180px" /> 
-  <img src="http://statresp.github.io/images/NSF.png" height="175px" width="175px" /> 
-  <img src="http://statresp.github.io/images/TN_TDOT-ColorPMS.png" height="175px" width="175px" />  
+  <img src="images/CARS.png" height="180px" width="180px" /> 
+  <img src="images/NSF.png" height="175px" width="175px" /> 
+  <img src="images/TN_TDOT-ColorPMS.png" height="175px" width="175px" />  
 </p>
 
 
