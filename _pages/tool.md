@@ -4,7 +4,7 @@ permalink: /tool/
 author_profile: true
 ---
  <figure>
-  <img src="http://statresp.github.io/images/Architecture.png" style="width:100%">
+  <img src="https://statresp.ai/images/Architecture.png" style="width:100%">
   <figcaption>Fig. 1 : High-Level System Archtitecture</figcaption>
 </figure> 
 
