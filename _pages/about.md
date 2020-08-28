@@ -22,20 +22,20 @@ Our work in ERM has spanned the last six years. This project was started by a co
 Our research has been showcased at multiple global smart city summits, won an innovation from the government technology magazine, covered in the Financial Times, and won the best paper award at ICLR's AI for Social Good Workshop. Our broader approach can be understood from checking the Research page, or through the [overview paper](http://statresp.github.io/files/urbancomputing.pdf). 
 
 
-<p float="left">
+
   <h3>Participants<h3>
   <img src="images/vu.jpg" height="100px" width="100px" />
     <img src="images/wustl.png" height="100px" width="100px" />
   <img src="images/stanford.png" height="100px" width="100px" />
-  <img src="images/isisLogo.png" height="100px" width="100px" />
-</p>
-<p float="left">
+  <img src="images/isisLogo.png" height="100px" width="100px" /> 
+ 
+ 
   <h3>Funding Agencies<h3>
   <img src="images/CARS.png" height="100px" width="100px" /> 
   <img src="images/NSF.png" height="100px" width="100px" /> 
   <img src="images/TN_TDOT-ColorPMS.png" height="100px" width="100px" />  
-</p>
-
+ 
+ 
 
 
       
