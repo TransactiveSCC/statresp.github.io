@@ -23,15 +23,17 @@ Our research has been showcased at multiple global smart city summits, won an in
 
 
 <p float="left">
-  <img src="images/vu.jpg" height="200px" width="200px" />
-    <img src="images/wustl.png" height="200px" width="200px" />
-  <img src="images/stanford.png" height="200px" width="200px" />
-  <img src="images/isisLogo.png" height="150px" width="200px" />
+  <h3>Participants<h3>
+  <img src="images/vu.jpg" height="100px" width="100px" />
+    <img src="images/wustl.png" height="100px" width="100px" />
+  <img src="images/stanford.png" height="100px" width="100px" />
+  <img src="images/isisLogo.png" height="100px" width="100px" />
 </p>
 <p float="left">
-  <img src="images/CARS.png" height="180px" width="180px" /> 
-  <img src="images/NSF.png" height="175px" width="175px" /> 
-  <img src="images/TN_TDOT-ColorPMS.png" height="175px" width="175px" />  
+  <h3>Funding Agencies<h3>
+  <img src="images/CARS.png" height="100px" width="100px" /> 
+  <img src="images/NSF.png" height="100px" width="100px" /> 
+  <img src="images/TN_TDOT-ColorPMS.png" height="100px" width="100px" />  
 </p>
 
 
