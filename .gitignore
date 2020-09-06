@@ -1,0 +1,10 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/bundle
+.DS_Store
+.vscode
+assets/css/Screen Shot 2020-09-03 at 9.46.56 PM.zip
+Gemfile.lock
+.bundle/config
