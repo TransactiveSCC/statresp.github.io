@@ -45,6 +45,10 @@ Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence
 <b><u>Peer-reviewed Workshops</u></b>
 <br>
 
+<b>[Designing Emergency Response Pipelines : Lessons and Challenges](http://ayanmukhopadhyay.github.io/publications/aaai20_erm)</b><br>
+Ayan Mukhopadhyay, Geoffrey Pettet, Mykel Kochenderfer, Abhishek Dubey.
+<i>The AAAI Fall Symposium Series Workshop on AI for Social Good.</i> <b>AAAI Fall Symposium Series 2020</b>.
+
 <b>[A Pipeline for Emergency Response](http://ayanmukhopadhyay.github.io/publications/iclr19)</b><br>
 Ayan Mukhopadhyay, Yevgeniy Vorobeychik.
 <i>The ICLR-19 Workshop on AI for Social Good.</i> <b>AISG at ICLR 2019 [BEST PAPER AWARD]</b>.
