@@ -4,6 +4,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. We gave a [tutorial](https://youtu.be/5OZszP4FTlw?t=354) on Smart Emergency Response at the [NSF Computational Sustainability Doctorial Symposium 2020](http://www.compsust.net/compsust-2020) on October 18.
+
+2. A recent [talk](https://www.youtube.com/watch?v=LtIaj7szN5I&t=1143s) at the [Utah Center for Data Science's Summer Seminar Series](http://datascience.utah.edu/assets/img/club_photos/SSS-2020-05.pdf) on the 19th of June about robust machine learning models and smart emergency response. 
+
 1. A recent [talk](https://www.youtube.com/watch?v=5IMxgb4a1No&feature=youtu.be) given at Stanford's CARS (Center of Automotive Research) Annual Symposium.
 
 2. A recent [talk](https://underline.io/lecture/382-on-algorithmic-decision-procedures-in-emergency-response-systems-in-smart-and-connected-communities) given at AAMAS 2020 conference on the decision procedures involved in statistical emergency response.
