@@ -7,9 +7,13 @@ author_profile: true
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
 
-<b>Robust Spatial-Temporal Incident Prediction</b> <br> 
+<b>[Emergency Incident Detection from Crowdsourced Waze Data using Bayesian Information Fusion](https://arxiv.org/abs/2011.05440)</b><br> 
+Yasas Senarath, Saideep Nannapaneni, Hemant Purohit, and Abhishek Dubey.
+<i>EEE/WIC/ACM International Joint Conference On Web Intelligence And Intelligent Agent Technology</i>. <b>WI-IAT 2020</b>.
+
+<b>[Robust Spatial-Temporal Incident Prediction](http://proceedings.mlr.press/v124/mukhopadhyay20a/mukhopadhyay20a.pdf)</b> <br> 
 Ayan Mukhopadhyay, Kai Wang, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, and Yevgeniy Vorobeychik.
-<i>36th Conference on Uncertainty in Artificial Intelligence</i>. <b>UAI 2020 (to appear)</b>.
+<i>36th Conference on Uncertainty in Artificial Intelligence</i>. <b>UAI 2020</b>.
 
 <b>[On Algorithmic Decision Procedures in Emergency Response Systems in Smart and Connected Communities](https://ayanmukhopadhyay.github.io/files/aamas20.pdf)</b> <br> 
 Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Yevgeniy Vorobeychik, Abhishek Dubey.
