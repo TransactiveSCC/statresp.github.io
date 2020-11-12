@@ -21,6 +21,22 @@ Our work in ERM has spanned the last six years. This project was started by a co
 
 Our research has been showcased at multiple global smart city summits, won an innovation from the government technology magazine, covered in the Financial Times, and won the best paper award at ICLR's AI for Social Good Workshop. Our broader approach can be understood from checking the Research page, or through the [overview paper](http://statresp.github.io/files/urbancomputing.pdf). 
 
+<br>
+
+<b>Updates</b>
+
+<ul>
+    <li> Our work on creating <a href="https://arxiv.org/abs/2011.05440">emergency incident detection from crowdsourced waze data using bayesian information fusion</a> has been acepted to the IEEE/WIC/ACM International Joint Conference On Web Intelligence And Intelligent Agent Technology.</li>
+    <li> Our work on creating <a href="https://ayanmukhopadhyay.github.io/files/aaai_erm.pdf">designing principled emergency response pipelines</a> has been acepted to the AAAI Fall Symposium Series Workshop in AI for Social Good.</li>
+    <li> Ayan gave a tutorial on Smart Emergency Response at the <a href="http://www.compsust.net/compsust-2020/">NSF Computational Sustainability Doctorial Symposium 2020</a> on October 18. See the talk <a href="https://youtu.be/5OZszP4FTlw?t=354">here</a></li> 
+    <li> Ayan gave a talk at the Utah Center for Data Science's Summer Seminar Series on the 19th of June about robust machine learning models and smart emergency response. See the poster <a href="http://datascience.utah.edu/assets/img/club_photos/SSS-2020-05.pdf">here</a>, and listen to the talk <a href="https://www.youtube.com/watch?v=LtIaj7szN5I&t=1143s">here</a></li>
+    <li> A pre-print of our <a href="https://arxiv.org/abs/2006.04200">survey paper</a> on how AI can be used to aid Emergency Response in smart cities is out and feedback would be appreciated.</li>
+    <li> Our work on robust spatial-temporal incident prediction was accepted at the 36th Conference on Uncertainty in Artificial Intelligence (UAI 2020). </li>
+    <li> We are creating <a href="https://statresp.ai/"><b>Stat Resp</b></a>, an integrated open-source toolchain of statistical methods to aid emergency response.</li>
+</ul>
+
+<br>
+
 
   <h3>Participants<h3>
   <div style="text-align:center">
