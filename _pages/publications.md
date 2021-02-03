@@ -7,70 +7,60 @@ author_profile: true
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
 
-<b>[Emergency Incident Detection from Crowdsourced Waze Data using Bayesian Information Fusion](https://arxiv.org/abs/2011.05440)</b><br> 
-Yasas Senarath, Saideep Nannapaneni, Hemant Purohit, and Abhishek Dubey.
-<i>EEE/WIC/ACM International Joint Conference On Web Intelligence And Intelligent Agent Technology</i>. <b>WI-IAT 2020</b>.
-
-<b>[Robust Spatial-Temporal Incident Prediction](http://proceedings.mlr.press/v124/mukhopadhyay20a/mukhopadhyay20a.pdf)</b> <br> 
-Ayan Mukhopadhyay, Kai Wang, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, and Yevgeniy Vorobeychik.
-<i>36th Conference on Uncertainty in Artificial Intelligence</i>. <b>UAI 2020</b>.
-
-<b>[On Algorithmic Decision Procedures in Emergency Response Systems in Smart and Connected Communities](https://ayanmukhopadhyay.github.io/files/aamas20.pdf)</b> <br> 
-Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Yevgeniy Vorobeychik, Abhishek Dubey.
-<i>The 19th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2020</b>.
-
-<b>[An Online Decision-Theoretic Framework for Responder
-Dispatch](http://ayanmukhopadhyay.github.io/publications/iccps19)</b> <br> 
-Ayan Mukhopadhyay, Geoffrey Pettet, Chinmaya Samal, Yevgeniy Vorobeychik, Abhishek Dubey.
-<i>The 10th ACM/IEEE Conference on Cyber-Physical Systems</i>. <b>ICCPS 2019</b>.
-
-<b>[Data-Driven Detection of Anomalies and Cascading Failures in Traffic Networks](https://scope-lab.org/files/Basak2019b.pdf)</b> <br> 
-Sanchita Basak, Afiya Aman, Aron Laszka, Abhishek Dubey, and Bruno Leao
-<i>Proceedings of the 11th Annual Conference of the Prognostics and Health Management Society</i>. <b>PHM 2019</b>.
-
-<b>[A Decision Theoretic Framework for Emergency Responder Dispatch](https://ayanmukhopadhyay.github.io/files/aamas18.pdf)</b> <br> 
-Ayan Mukhopadhyay, Zilin Wang, Yevgeniy Vorobeychik.
-<i>The 17th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2018</b>.
-
-<b>[Incident analysis and prediction using clustering and Bayesian network](https://scope-lab.org/files/Pettet2017.pdf)</b> 
+<b>[RIAPS: Resilient Information Architecture Platform for Decentralized Smart Systems](https://ieeexplore.ieee.org/document/7964879 )</b>
 <br>
-Geoffrey Pettet, Saideep Nannapaneni, Benjamin Stadnick, Abhishek Dubey, and Gautam Biswas.
-<b>IEEE SmartWorld, 2017</b>
+Scott Eisele, Istvan Mardari, Abhishek Dubey, Gabor Karsai
+<i>IEEE 20th International Symposium on Real-Time Distributed Computing</i>. <b>ISORC 2017</b>.
 
-<b>[Prioritized Allocation of Emergency Responders based on a Continuous-Time Incident Prediction Model](https://ayanmukhopadhyay.github.io/files/aamas17.pdf)</b> <br> 
-Ayan Mukhopadhyay, Abhishek Dubey, Gautam Biswas, Yevgeniy Vorobeychik.
-<i>The 16th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2017</b>.
+<b>[SolidWorx: A Resilient and Trustworthy Transactive Platform for Smart and
+Connected Communities](https://ieeexplore.ieee.org/abstract/document/8726666 )</b> <br>
+Scott Eisele; Aron Laszka; Anastasia Mavridou; Abhishek Dubey.
+<i>IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)</i>. <b>CPSCom 2018</b>.
 
-<b>[Optimal Allocation of Police Patrol Resources Using a Continuous-Time Crime Model](https://ayanmukhopadhyay.github.io/files/gamesec16.pdf)</b> <br>
-Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence, Paul Speer.
-<i>7th International Conference on Decision and Game Theory for Security. </i>. <b>GameSec 2016</b>.
+<b>[TRANSAX: A blockchain-based decentralized forward-trading energy exchange for transactive microgrids](https://ieeexplore.ieee.org/document/8645001 )</b> <br>
+Aron Laszka; Scott Eisele; Abhishek Dubey; Gabor Karsai; Karla Kvaternik.
+<i>IEEE 24th International Conference on Parallel and Distributed Systems </i>. <b>ICPADS 2018</b>.
 
+<b>[Cyber-Physical Simulation Platform for Security Assessment of the Transactive Energy Systems](https://ieeexplore.ieee.org/document/8738802 )</b> <br>
+Yue Zhang; Scott Eisele; Abhishek Dubey; Aron Laszka; Anurag K. Srivastava.
+<i>7th Workshop on Modeling and Simulation of Cyber-Physical Energy Systems</i>. <b>MSCPES 2019</b>.
+
+<b>[On the Design of Fault-Tolerance in a Decentralized Software Platform for Power Systems](https://ieeexplore.ieee.org/document/8759342 )</b> <br>
+Purboday Ghosh; Scott Eisele; Abhishek Dubey; Mary Metelko; Istvan Madari; Peter Volgyesi; Gabor Karsai
+<i>IEEE 22nd International Symposium on Real-Time Distributed Computing </i>. <b>ISORC 2019</b>.
+
+<b>[Cyber-Attacks and Mitigation in Blockchain Based Transactive Energy Systems](https://ieeexplore.ieee.org/document/9274708 )</b> <br>
+Carlos Barreto; Taha Eghtesad; Scott Eisele; Aron Laszka; Abhishek Dubey; Xenofon Koutsoukos.
+<i>IEEE Conference on Industrial Cyberphysical Systems</i>. <b>ICPS 2020</b>.
+
+<b>[Designing a decentralized fault-tolerant software framework for smart grids and its applications](https://www.sciencedirect.com/science/article/pii/S1383762120300539 )</b> 
 <br>
-<b><u>Peer-reviewed Workshops</u></b>
-<br>
+Purboday Ghosh; Scott Eisele; Abhishek Dubey; Mary Metelko; Istvan Madari; Peter Volgyesi; Gabor Karsai.
+<b>Journal of Systems Architecture</b>. <b>JSA 2020</b>
 
-<b>[Designing Emergency Response Pipelines : Lessons and Challenges](https://arxiv.org/abs/2010.07504)</b><br>
-Ayan Mukhopadhyay, Geoffrey Pettet, Mykel Kochenderfer, Abhishek Dubey.
-<i>The AAAI Fall Symposium Series Workshop on AI for Social Good.</i> <b>AAAI Fall Symposium Series 2020</b>.
+<b>[Mechanisms for Outsourcing Computation via a Decentralized Market](https://dl.acm.org/doi/abs/10.1145/3401025.3401737 )</b> <br>
+Scott Eisele; Taha Eghtesad; Nicholas Troutman; Aron Laszka; Abhishek Dubey.
+<i>Proceedings of the 14th ACM International Conference on Distributed and Event-based Systems</i>. <b>DEBS 2020</b>.
 
-<b>[A Pipeline for Emergency Response](http://ayanmukhopadhyay.github.io/publications/iclr19)</b><br>
-Ayan Mukhopadhyay, Yevgeniy Vorobeychik.
-<i>The ICLR-19 Workshop on AI for Social Good.</i> <b>AISG at ICLR 2019 [BEST PAPER AWARD]</b>.
+<b>[Safe and Private Forward-Trading Platform for Transactive Microgrids](https://dl.acm.org/doi/10.1145/3403711 )</b> <br>
+Scott Eisele; Taha Eghtesad; Keegan Campanelli; Prakhar Agrawal; Aron Laszka; Abhishek Dubey.
+<i>ACM Trans. Cyber-Phys. Syst. 5, 1, Article 8 </i>. <b>ACM TCPS 2020</b>.
 
-<b>[Structured Summarization of Social Web for Smart Emergency Services by Uncertain Concept Graph](https://scope-lab.org/files/Purohit2018.pdf)</b><br>
-H. Purohit, S. Nannapaneni, A. Dubey, P. Karuna, and G. Biswas.
-<i> 2018 IEEE International Science of Smart City Operations and Platforms Engineering</i><b>SCOPE Workshop at CPS Week 2018</b>.
+<b>[Blockchains for Transactive Energy Systems: Opportunities, Challenges, and Approaches](https://ieeexplore.ieee.org/abstract/document/9187478 )</b> <br>
+Scott Eisele; Carlos Barreto; Abhishek Dubey; Xenofon Koutsoukos; Taha Eghtesad; Aron Laszka; Anastasia Mavridou.
+<i>IEEE Computer 53, 9 </i>. <b>Computer 2020</b>.
 
-<b>[Prioritized allocation of emergency responders based on a continuous-time incident prediction model](http://ayanmukhopadhyay.github.io/publications/aamas17)</b> <br>
-Ayan Mukhopadhyay, Zilin Wang, Yevgeniy Vorobeychik.
-<i>The AAMAS-17 Workshop on Adversarial Reasoning in Multi-agent Systems</i> <b>ADVERSE at AAMAS 2016</b>.
+<b>[The Role of Blockchains in Multi-Stakeholder Transactive Energy Systems](https://www.dre.vanderbilt.edu/~schmidt/PDF/Blockchain_frontiers_2020.pdf )</b> <br>
+Scott Eisele; Aron Laszka; Douglas C. Schmidt; Abhishek Dubey.
+<i>Blockchain Frontiers 2020 </i>.
 
-<b>[Optimal allocation of police patrol resources using a continuous-time crime model](http://ayanmukhopadhyay.github.io/publications/gamesec16)</b><br>
-Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence, Paul Speer. <i>The AAAI 2017 Spring Symposium on AI for Social Good.</i> <b>AISOC at AAAI (spring) 2017</b>.
 
-<br>
 <b><u>Tool Demonstrations and Posters</u></b>
 <br>
-<b>[Incident management and analysis dashboard for fire departments](https://scope-lab.org/files/Pettet2019.pdf)</b><br>
-G. Pettet, A. Mukhopadhyay, C. Samal, A. Dubey, and Y. Vorobeychik.
-<i> 10th ACM/IEEE International Conference on Cyber-Physical Systems</i><b>ICCPS 2019</b>.
+<b>[Demo Abstract: RIAPS — A Resilient Information Architecture Platform for Edge Computing](https://ieeexplore.ieee.org/abstract/document/7774696 )</b><br>
+William Emfinger; Abhishek Dubey; Peter Volgyesi; Janos Sallai; Gabor Karsai.
+<i> IEEE/ACM Symposium on Edge Computing</i> <b>SEC 2016</b>.
+
+<b>[Transactive energy demo with RIAPS platform](https://dl.acm.org/doi/10.1145/3055004.3064845   )</b> <br>
+Scott Eisele; Abhishek Dubey; Gabor Karsi; Srdjan Lukic.
+<i>Proceedings of the 8th International Conference on Cyber-Physical Systems </i>. <b>ICCPS 2017</b>.
